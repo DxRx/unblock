@@ -5,7 +5,7 @@
 Use this.unblock inside Meteor Publications. This is a project to provide `this.unblock` functionality to publications.
 `this.unblock` inside publications is one of most(may be a little bit less) [requested](https://github.com/meteor/meteor/issues/853) feature and but it hasn't been implemented yet!
 
-Fork from [meteorhacks/unblock](https://github.com/lamhieu-vk/unblock). If you find an error, please open the issue in this project!
+Fork from [lamhieu-vk/unblock](https://github.com/lamhieu-vk/unblock). If you find an error, please open the issue in this project!
 
 ## Why unblock?
 
