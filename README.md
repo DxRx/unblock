@@ -26,10 +26,10 @@ So, other messages can start processing without waiting for the above method.
 
 ## Installation
 
-read more in [atmospherejs](https://atmospherejs.com/lamhieu/unblock)
+read more in [atmospherejs](https://atmospherejs.com/dxrx/unblock)
 
 ```bash
-$ meteor add lamhieu:unblock
+$ meteor add dxrx:unblock
 ```
 
 Use it inside your publications, if that takes too much time or you don't need subscriptions from other publications to wait on this.
@@ -41,7 +41,5 @@ Meteor.publish("publicationName", function() {
 });
 ```
 
-[github-project-url]: https://github.com/lamhieu-vk/unblock
-[travis-image]: https://travis-ci.com/lamhieu-vk/unblock.svg?branch=master
-[github-issues-image]: https://img.shields.io/github/issues/lamhieu-vk/unblock.svg
-[github-issues-url]: https://github.com/lamhieu-vk/unblock/issues
+[github-project-url]: https://github.com/dxrx/unblock
+[github-issues-url]: https://github.com/dxrx/unblock/issues
